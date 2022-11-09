@@ -1,12 +1,12 @@
+
 # teaching
+
 <html>
-<head>
-<meta content="text/html" http-equiv="Content-Type">
-</head>
+
 <body>
 <center><span style="color: #0000ff; font-size: x-large; text-decoration: underline"><strong>Teaching</strong> </span><br> <br><center>
 
-<center>Please choose the class name. <br> Some course materials are available from the link below. <br>
+<center>Please choose a class name. <br> <br>
 
 <a href="/teaching/2103index.html">Financial Economics (for Undergraduates) </a> <br>
 <a href="/teaching/8000index.html">Quantitative Skills for Economics</a> <br>
