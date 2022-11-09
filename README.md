@@ -16,5 +16,8 @@
 <a href="/teaching/7520index.html">International Macroeconomics and Finance</a> <br>
 <a href="/teaching/JPNindex.html">Japanese Economy</a> <br>
 
+  <br>
+  <br>
+  
 Write an email to <a href="mailto:s.takayama1@uq.edu.au">Shino</a> if you have any questions. <br> <br><span style="color: #ff0000; font-size: small;">Copyright Shino Takayama </span></center>
 
