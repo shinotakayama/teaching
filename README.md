@@ -6,8 +6,8 @@
 
 <center>
 
-<a href="/teaching/2103index.html">Financial Economics (for Undergraduates) </a> <br>
-<a href="/teaching/8000index.html">Quantitative Skills for Economics</a> <br>
+<a href="../2103/">Financial Economics (for Undergraduates) </a> <br>
+<a href="../8000/">Quantitative Skills for Economics</a> <br>
 <a href="/teaching/7200index.html">Economics of Financial Markets</a> <br>
 <a href="/teaching/6021index.html">Financial Economics (for Masters) </a> <br>
 <a href="/teaching/mathfinan.html">Financial Economics in Continuous-Time</a> <br>
