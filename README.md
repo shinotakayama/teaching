@@ -6,15 +6,15 @@
 
 <center>
 
-<a href="../2103/">Financial Economics (for Undergraduates) </a> <br>
-<a href="../8000/">Quantitative Skills for Economics</a> <br>
-<a href="/teaching/7200index.html">Economics of Financial Markets</a> <br>
-<a href="/teaching/6021index.html">Financial Economics (for Masters) </a> <br>
-<a href="/teaching/mathfinan.html">Financial Economics in Continuous-Time</a> <br>
-<a href="/teaching/3050index.html">Game Theory and Strategy</a> <br>
-<a href="/teaching/3400index.html">Industrial Organization</a> <br>
-<a href="/teaching/7520index.html">International Macroeconomics and Finance</a> <br>
-<a href="/teaching/JPNindex.html">Japanese Economy</a> <br>
+<a href="https://shinotakayama.github.io/2103/">Financial Economics (for Undergraduates) </a> <br>
+<a href="https://shinotakayama.github.io/8000/">Quantitative Skills for Economics</a> <br>
+<a href="https://shinotakayama.github.io/7200/">Economics of Financial Markets</a> <br>
+<a href="https://shinotakayama.github.io/6021/">Financial Economics (for Masters) </a> <br>
+<a href="https://shinotakayama.github.io/mathfinan/">Financial Economics in Continuous-Time</a> <br>
+<a href="https://shinotakayama.github.io/3050/">Game Theory and Strategy</a> <br>
+<a href="https://shinotakayama.github.io/3400/">Industrial Organization</a> <br>
+<a href="https://shinotakayama.github.io/7520/">International Macroeconomics and Finance</a> <br>
+<a href="https://shinotakayama.github.io/JPNindex/">Japanese Economy</a> <br>
 
   <br>
   <br>
