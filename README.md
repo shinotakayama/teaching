@@ -14,10 +14,10 @@
 <a href="https://shinotakayama.github.io/3050/">Game Theory and Strategy</a> <br>
 <a href="https://shinotakayama.github.io/3400/">Industrial Organization</a> <br>
 <a href="https://shinotakayama.github.io/7520/">International Macroeconomics and Finance</a> <br>
-<a href="https://shinotakayama.github.io/JPNindex/">Japanese Economy</a> <br>
+<a href="https://shinotakayama.github.io/jpnecon/">Japanese Economy</a> <br>
 
   <br>
   <br>
-  
+<p><a title="" href="http://www.shinotakayama.com">To Index Page</a></p>  
 Write an email to <a href="mailto:s.takayama1@uq.edu.au">Shino</a> if you have any questions. <br> <br><span style="color: #ff0000; font-size: small;">Copyright Shino Takayama </span></center>
 
