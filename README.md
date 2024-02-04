@@ -1,7 +1,3 @@
-
-# teaching
-
-
 <center><span style="color: #0000ff; font-size: x-large; text-decoration: underline"><strong>Teaching</strong> </span><br> <br><center>
 
 <center>
